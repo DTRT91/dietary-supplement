@@ -1,0 +1,22 @@
+# 모델 파일
+*.safetensors
+*.pth
+*.ckpt
+
+# 환경 설정 파일
+.env
+
+# 캐시 파일
+__pycache__/
+*.pyc
+
+# 로그 파일
+*.log
+
+# 대용량 이미지 파일
+*.png
+*.jpg
+*.jpeg
+
+# 가상환경
+conda/
